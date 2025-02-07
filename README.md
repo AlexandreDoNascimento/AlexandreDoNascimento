@@ -11,5 +11,6 @@ AlexandreDoNascimento/AlexandreDoNascimento is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 
+  
 ### 🐍 Snake Animation
 ![Snake animation](https://github.com/AlexandreDoNascimento/AlexandreDoNascimento/blob/output/github-contribution-grid-snake.svg)
