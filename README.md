@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 🐍 Snake Animation
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlexandreDoNascimento/AlexandreDoNascimento/blob/output/github-contribution-grid-snake.svg)
