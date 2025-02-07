@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: output/snake.svg
 
       - name: Adicionar o arquivo ao repositório
         uses: stefanzweifel/git-auto-commit-action@v5
