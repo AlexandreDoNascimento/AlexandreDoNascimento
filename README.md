@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, sou Alexandre Barbosa</h1>
-<h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas pela FMU</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas pela FMU.
+  
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandredonascimento&label=Profile%20views&color=0e75b6&style=flat" alt="alexandredonascimento" /> </p>
 
