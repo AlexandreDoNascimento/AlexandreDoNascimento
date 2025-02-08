@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 📫 Como entrar em contato comigo **https://www.linkedin.com/in/alexandre-barbosa-b3ba6726a**
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
@@ -19,6 +21,7 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandredonascimento&show_icons=true&locale=en" alt="alexandredonascimento" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandredonascimento&" alt="alexandredonascimento " /></p>
+
 
 
 <!---
