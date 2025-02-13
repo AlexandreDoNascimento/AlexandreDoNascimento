@@ -11,7 +11,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 <h3 align="left">Conecte-se comigo:
- 📫 Como entrar em contato comigo **https://www.linkedin.com/in/alexandre-barbosa-b3ba6726a**
+   
+📫 Como entrar em contato comigo: https://www.linkedin.com/in/alexandre-barbosa-b3ba6726a
+
+E-mail:alexandre080986@gmail.com
 </h3>
 <p align="left">
 </p>
