@@ -9,9 +9,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 Como entrar em contato comigo **https://www.linkedin.com/in/alexandre-barbosa-b3ba6726a**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:
+ 📫 Como entrar em contato comigo **https://www.linkedin.com/in/alexandre-barbosa-b3ba6726a**
+</h3>
 <p align="left">
 </p>
 
